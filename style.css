@@ -87,7 +87,7 @@ img{
   border: solid 2px blue;
   display:grid;
   align-items: stretch;
-  grid-template-columns: 2fr 1fr;
+  grid-template-columns: 1fr;
 }
 .grid-item{
   height:400px;
@@ -113,6 +113,7 @@ img{
   text-align: right;
 }
 .hero-box{
+
   display: flex;
   justify-content: space-between;
 }
@@ -146,7 +147,7 @@ img{
   margin-left: 100px;
   margin-right: 100px;
   margin-bottom: 100px;
-  width: 1130px;
+  width: 90%;
   height: 350px;
   background: #F6F2F2;
 }
@@ -175,7 +176,7 @@ img{
   margin-top: 50px;
   margin-left: 100px;
   margin-right: 100px;
-  width: 1130px;
+  width: 90%;
   height: 350px;
   background: #F6F2F2;
   margin-bottom:50px;
