@@ -160,7 +160,7 @@ img{
 }
 .cs-text-box{
   height: 100%;
-  
+
   width: 50%;
   float: right;
   display:inline-block;
@@ -244,4 +244,9 @@ img{
   z-index: 2;
   max-width: 425px;
   max-height: 500px;
+}
+@media screen and (max-width: 575px) {
+
+
+
 }
