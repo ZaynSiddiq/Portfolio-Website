@@ -84,7 +84,7 @@ img{
 
 }
 .grid-container{
-  border: solid 2px blue;
+  border: solid 5px red;
   display:grid;
   align-items: stretch;
   grid-template-columns: 1fr;
