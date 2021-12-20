@@ -245,8 +245,14 @@ img{
   max-width: 425px;
   max-height: 500px;
 }
-@media screen and (max-width: 575px) {
 
 
+
+
+@media screen and (max-width: 414px) {
+
+.home-hero-image{
+  display:none;
+}
 
 }
